@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    padding-left: 400px;
+    background-color: rgb(4, 100, 184);
+}
+button{
+    width: 200px;
+    height: 200px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left:270px ;
+    background-color: rgb(175, 218, 255);
+    border: 10px solid rgb(255, 173, 173);
+    border-radius: 30px;
+}
+button:hover{
+    background-color: white;
+
+}
+h1{
+    color: white;
+
+}
